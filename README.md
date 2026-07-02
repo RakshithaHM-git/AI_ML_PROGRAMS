@@ -16,12 +16,11 @@ To implement Breadth First Search (BFS) and Depth First Search (DFS) algorithms 
 
 ## 📷 Code Screenshot
 
-![Code](Program_2_Best_First_Search/Screenshot%202026-07-02%20190041.png)
+![Code](Program_1_BFS_DFS/Screenshot%202026-07-02%20230740.png)
 
 ## 📷 Output Screenshot
 
-![Output](Program_2_Best_First_Search/Screenshot%202026-07-02%20190526.png)
-
+![Output](Program_1_BFS_DFS/Screenshot%202026-07-02%20230835.png)
 ---
 
 # Program 2: Best First Search
