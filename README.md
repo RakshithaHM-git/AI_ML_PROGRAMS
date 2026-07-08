@@ -47,7 +47,7 @@ To implement the Best First Search algorithm using a priority queue and heuristi
 To implement the Means-End Analysis (MEA) algorithm to solve a problem by reducing the difference between the current state and the goal state using appropriate operators.
 
 ## 💻 Language Used
--Python
+Python
 
 
 ## 📷 Code Screenshot
