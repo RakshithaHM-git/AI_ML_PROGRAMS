@@ -33,11 +33,11 @@ To implement the Best First Search algorithm using a priority queue and heuristi
 
 ## 📷 Code Screenshot
 
-![Code](Program_2_Best_First_Search/Screenshot%202026-07-02%20192126.png)
+![Code](Program_2_Best_First_Search/Screenshot%202026-07-08%20123304.png)
 
 ## 📷 Output Screenshot
 
-![Output](Program_2_Best_First_Search/Screenshot%202026-07-02%20192216.png)
+![Output](Program_2_Best_First_Search/Screenshot%202026-07-08%20123405.png)
 
 ---
 
