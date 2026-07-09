@@ -27,14 +27,9 @@ To implement the Best First Search algorithm using a priority queue and heuristi
 ## 💻 Language Used
 - Python
 
-## 📷 Code Screenshot
+### 📷 Program Screenshot
 
-![Code](Program_2_Best_First_Search/Screenshot%202026-07-08%20123304.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_2_Best_First_Search/Screenshot%202026-07-08%20123405.png)
-
+![Program 2](Program_2_Best_First_Search/Screenshot%202026-07-09%20192400.png)
 ---
 
 # Program 3: Means-End Analysis (MEA)
