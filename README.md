@@ -43,7 +43,7 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program 3](Program_3_MeanEnd_Analysis/Screenshot%202026-07-09%20192723.png)
+![Program 3](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-09%20192723.png)
 ---
 
 
