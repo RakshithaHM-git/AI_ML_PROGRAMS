@@ -14,13 +14,9 @@ To implement Breadth First Search (BFS) and Depth First Search (DFS) algorithms 
 ## 💻 Language Used
 - Python
 
-## 📷 Code Screenshot
+## 📷 C Program Screenshot)
 
-![Code](Program_1_BFS_DFS/Screenshot%202026-07-02%20230740.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_1_BFS_DFS/Screenshot%202026-07-02%20230835.png)
+![Program 1](Program_1_BFS_DFS/Screenshot%202026-07-09%20191351.png)
 ---
 
 # Program 2: Best First Search
