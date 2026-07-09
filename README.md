@@ -41,13 +41,9 @@ To implement the Means-End Analysis (MEA) algorithm to solve a problem by reduci
 Python
 
 
-## 📷 Code Screenshot
+### 📷 Program Screenshot
 
-![Code](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-08%20130120.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-08%20130314.png)
+![Program 3](Program_3_MeanEnd_Analysis/Screenshot%202026-07-09%20192723.png)
 ---
 
 
