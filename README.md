@@ -14,13 +14,9 @@ To implement Breadth First Search (BFS) and Depth First Search (DFS) algorithms 
 ## 💻 Language Used
 - Python
 
-## 📷 Code Screenshot
+## 📷 C Program Screenshot)
 
-![Code](Program_1_BFS_DFS/Screenshot%202026-07-02%20230740.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_1_BFS_DFS/Screenshot%202026-07-02%20230835.png)
+![Program 1](Program_1_BFS_DFS/Screenshot%202026-07-09%20191351.png)
 ---
 
 # Program 2: Best First Search
@@ -31,14 +27,9 @@ To implement the Best First Search algorithm using a priority queue and heuristi
 ## 💻 Language Used
 - Python
 
-## 📷 Code Screenshot
+### 📷 Program Screenshot
 
-![Code](Program_2_Best_First_Search/Screenshot%202026-07-08%20123304.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_2_Best_First_Search/Screenshot%202026-07-08%20123405.png)
-
+![Program 2](Program_2_Best_First_Search/Screenshot%202026-07-09%20192400.png)
 ---
 
 # Program 3: Means-End Analysis (MEA)
@@ -50,13 +41,9 @@ To implement the Means-End Analysis (MEA) algorithm to solve a problem by reduci
 Python
 
 
-## 📷 Code Screenshot
+### 📷 Program Screenshot
 
-![Code](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-08%20130120.png)
-
-## 📷 Output Screenshot
-
-![Output](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-08%20130314.png)
+![Program 3](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-09%20192723.png)
 ---
 
 
