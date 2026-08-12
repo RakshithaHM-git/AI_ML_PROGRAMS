@@ -46,6 +46,23 @@ Python
 ![Program 3](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-09%20192723.png)
 ---
 
+# Program 4: Representation of Knowledge Using Predicate Logic and Rule-Based Systems
+
+## 📌 Objective
+
+To implement a basic Rule-Based System using Predicate Logic and Forward Chaining to represent knowledge and infer new facts from an initial knowledge base using production rules.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program 4 Output](Program4_rule_based_system.py/Screenshot%202026-08-12%20150051.png)
+
+---
+
+
 
 ## 👩‍💻 Author
 **Rakshitha H M**
