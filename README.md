@@ -59,7 +59,7 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program 4 Output](Program4_rule_based_system.py/Screenshot%202026-08-12%20150051.png)
+![Program Output](Program_4_Rule_Based_System/Screenshot%202026-08-12%20150051.png)
 
 ---
 
@@ -76,7 +76,7 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20194301.png)
+![Program Output](Program_5_FindS_Algorithm/Screenshot%202026-08-12%20194301.png)
 
 ---
 
@@ -93,7 +93,8 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20194455.png)
+![Program Output](Program_6_Candidate_Elimination/Screenshot%202026-08-12%20194455.png)
+
 
 ---
 
@@ -110,7 +111,7 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20194902.png)
+![Program Output](Program_7_ID3_Decision_Tree/Screenshot%202026-08-12%20194902.png)
 ---
 
 ---
@@ -126,7 +127,8 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20195239.png)
+![Program Output](Program_8_Perceptron_Backpropagation/Screenshot%202026-08-12%20195239.png)
+
 ---
 
 ---
@@ -142,7 +144,7 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20195421.png)
+![Program Output](Program_9_Naive_Bayes/Screenshot%202026-08-12%20195421.png)
 ---
 
 ---
@@ -158,7 +160,8 @@ Python
 
 ### 📷 Program Screenshot
 
-![Program Output](Screenshot%202026-08-12%20195605.png)
+![Program Output](Program_10_KMeans_Clustering/Screenshot%202026-08-12%20195605.png)
+
 ---
 
 
