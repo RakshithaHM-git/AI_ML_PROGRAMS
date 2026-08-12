@@ -44,6 +44,7 @@ Python
 ### 📷 Program Screenshot
 
 ![Program 3](Program_3_MeanEnd_Analysis.py/Screenshot%202026-07-09%20192723.png)
+
 ---
 
 # Program 4: Representation of Knowledge Using Predicate Logic and Rule-Based Systems
@@ -62,6 +63,103 @@ Python
 
 ---
 
+---
+# Program 5: Implementation of Find-S Algorithm for Concept Learning
+
+## 📌 Objective
+
+To implement the Find-S Algorithm to determine the most specific hypothesis that is consistent with all positive training examples.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20194301.png)
+
+---
+
+---
+# Program 6: Implementation of Candidate Elimination Algorithm
+
+## 📌 Objective
+
+To implement the Candidate Elimination Algorithm for finding the Specific (S) and General (G) boundaries of the Version Space.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20194455.png)
+
+---
+
+---
+# Program 7: Implementation of Decision Tree Learning using ID3 Algorithm
+
+## 📌 Objective
+
+To implement the ID3 Decision Tree Learning Algorithm using Information Gain and Shannon Entropy.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20194902.png)
+---
+
+---
+# Program 8: Implementation of Perceptron and Backpropagation Neural Network
+
+## 📌 Objective
+
+To implement a Single-Layer Perceptron for the AND gate and a Multi-Layer Backpropagation Neural Network for the XOR gate.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20195239.png)
+---
+
+---
+# Program 9: Implementation of Naïve Bayes Classification
+
+## 📌 Objective
+
+To implement the Naïve Bayes Classification Algorithm using Bayesian Learning with categorical conditional probabilities.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20195421.png)
+---
+
+---
+# Program 10: Implementation of K-Means Clustering and Cluster Validation
+
+## 📌 Objective
+
+To implement the K-Means Clustering Algorithm and evaluate the clustering performance using the Silhouette Coefficient.
+
+## 💻 Language Used
+
+Python
+
+### 📷 Program Screenshot
+
+![Program Output](Screenshot%202026-08-12%20195605.png)
+---
 
 
 ## 👩‍💻 Author
